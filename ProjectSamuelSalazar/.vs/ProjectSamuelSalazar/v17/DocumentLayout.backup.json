@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|c:\\users\\samuel salazar\\downloads\\unity_danielt\\projectsamuelsalazar\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\mov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\playerabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerabilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\poweups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poweups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\script_unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\script_unity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\assets\\scripts\\uicontador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51594FAF-15E0-4E40-A1C6-4FCB20060A52}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:39:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIContador.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\UIContador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIContador.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\UIContador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIContador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:38:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAbilities.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\PlayerAbilities.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAbilities.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\PlayerAbilities.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAbilities.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:02:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoweUps.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\PoweUps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoweUps.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\PoweUps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoweUps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:00:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bala.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\bala.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\bala.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\bala.cs",
+              "RelativeToolTip": "Assets\\Scripts\\bala.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:35:11.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Script_Unity.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\Script_Unity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Script_Unity.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\Script_Unity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Script_Unity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:11:00.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mov.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\mov.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\mov.cs",
+              "ToolTip": "C:\\Users\\Samuel Salazar\\Downloads\\Unity_DanielT\\ProjectSamuelSalazar\\Assets\\Scripts\\mov.cs",
+              "RelativeToolTip": "Assets\\Scripts\\mov.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:07:31.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
