@@ -1,3 +1,3 @@
 # Jonás Samuel Salazar Torres
-Codigo: 222034040 <br/>
-Materia: Modelamiento y simulación
+<b>Codigo:<b/> 222034040 <br/>
+<b>Materia:<b/> Modelamiento y simulación
